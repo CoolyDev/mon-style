@@ -1,5 +1,4 @@
-[
-  {
+[{
     "photoId": 1,
     "photoCode": "https://firebasestorage.googleapis.com/v0/b/yasms-efe24.appspot.com/o/2.jpg?alt=media&token=eda824fd-3729-44c9-95b2-588b6967593a",
     "categories": "homme"
@@ -13,5 +12,4 @@
     "photoId": 3,
     "photoCode": "https://firebasestorage.googleapis.com/v0/b/yasms-efe24.appspot.com/o/7.jpg?alt=media&token=4d5e8cfb-8bd5-43dd-90f3-6c54e4113b9c",
     "categories": "femme"
-  },
-]
+  }]
