@@ -14,6 +14,16 @@
       "photoId": 3,
       "photoCode": "https://firebasestorage.googleapis.com/v0/b/yasms-efe24.appspot.com/o/8.jpg?alt=media&token=adc21471-2539-4a66-aa9d-bd4c769d839d",
       "categories": "Homme"
+    },
+    {
+      "photoId": 4,
+      "photoCode": "https://firebasestorage.googleapis.com/v0/b/yasms-efe24.appspot.com/o/6.jpg?alt=media&token=0063b131-fd7d-48a6-9b4b-364c678ef1a4",
+      "categories": "Femme"
+    },
+    {
+      "photoId": 5,
+      "photoCode": "https://firebasestorage.googleapis.com/v0/b/yasms-efe24.appspot.com/o/7.jpg?alt=media&token=4d5e8cfb-8bd5-43dd-90f3-6c54e4113b9c",
+      "categories": "Homme"
     }
     ]
 }
