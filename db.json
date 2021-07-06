@@ -1,5 +1,4 @@
-{
-  "photo": [
+[
    {
      "photoId": 1,
       "photoCode": "https://firebasestorage.googleapis.com/v0/b/yasms-efe24.appspot.com/o/2.jpg?alt=media&token=eda824fd-3729-44c9-95b2-588b6967593a",
@@ -15,5 +14,4 @@
       "photoCode": "https://firebasestorage.googleapis.com/v0/b/yasms-efe24.appspot.com/o/8.jpg?alt=media&token=adc21471-2539-4a66-aa9d-bd4c769d839d",
       "categories": "Homme"
     }
-  ]
-}
+]
